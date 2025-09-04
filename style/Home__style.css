@@ -1047,4 +1047,11 @@ border-radius: 3px;
     
 }
 
-
+/* новые стили */
+.black{
+    color: #000000;
+}
+.Conact-section-reg{
+    margin-top: 30px;
+   
+}
